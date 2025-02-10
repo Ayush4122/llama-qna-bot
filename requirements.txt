@@ -1,1 +1,5 @@
-
+streamlit
+langchain
+llama-cpp-python
+json5
+python-dotenv
